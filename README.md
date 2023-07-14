@@ -19,6 +19,6 @@ Enter username on required field:
 Press Enter
 ```
 
-Password wordlist credit: Seclist [GitHub Pages](https://github.com/danielmiessler/SecLists)
+Password wordlist credit: [SecLists](https://github.com/danielmiessler/SecLists)
 
 > Thank you for visiting, Project is under development, will add more functionality soon! Happy Hacking! 
